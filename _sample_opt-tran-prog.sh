@@ -1,0 +1,10 @@
+jpegtran -copy none -optimize -progressive source/1.jpg > opt/1-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/2.jpg > opt/2-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/3.jpg > opt/3-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/4.jpg > opt/4-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/5.jpg > opt/5-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/6.jpg > opt/6-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/7.jpg > opt/7-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/8.jpg > opt/8-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/9.jpg > opt/9-tran-prog.jpg
+jpegtran -copy none -optimize -progressive source/10.jpg > opt/10-tran-prog.jpg

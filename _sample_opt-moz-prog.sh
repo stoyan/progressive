@@ -1,0 +1,10 @@
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/1.jpg > opt-moz-prog/1-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/2.jpg > opt-moz-prog/2-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/3.jpg > opt-moz-prog/3-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/4.jpg > opt-moz-prog/4-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/5.jpg > opt-moz-prog/5-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/6.jpg > opt-moz-prog/6-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/7.jpg > opt-moz-prog/7-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/8.jpg > opt-moz-prog/8-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/9.jpg > opt-moz-prog/9-moz-prog.jpg
+/usr/local/opt/mozjpeg/bin/jpegtran -copy none -progressive source/10.jpg > opt-moz-prog/10-moz-prog.jpg

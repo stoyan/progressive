@@ -1,2 +1,3 @@
-# progressive
- Study of progressive vs baseline JPEG encoding
+# Study of progressive vs baseline JPEG encoding
+
+

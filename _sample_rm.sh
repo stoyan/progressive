@@ -1,0 +1,10 @@
+rm 10022.jpg
+rm 10030.jpg
+rm 10032.jpg
+rm 10037.jpg
+rm 10064.jpg
+rm 10076.jpg
+rm 10140.jpg
+rm 10158.jpg
+rm 10159.jpg
+rm 1018.jpg

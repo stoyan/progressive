@@ -1,0 +1,10 @@
+jpegtran -copy none -optimize source/1.jpg > opt-tran-base/1-tran-base.jpg
+jpegtran -copy none -optimize source/2.jpg > opt-tran-base/2-tran-base.jpg
+jpegtran -copy none -optimize source/3.jpg > opt-tran-base/3-tran-base.jpg
+jpegtran -copy none -optimize source/4.jpg > opt-tran-base/4-tran-base.jpg
+jpegtran -copy none -optimize source/5.jpg > opt-tran-base/5-tran-base.jpg
+jpegtran -copy none -optimize source/6.jpg > opt-tran-base/6-tran-base.jpg
+jpegtran -copy none -optimize source/7.jpg > opt-tran-base/7-tran-base.jpg
+jpegtran -copy none -optimize source/8.jpg > opt-tran-base/8-tran-base.jpg
+jpegtran -copy none -optimize source/9.jpg > opt-tran-base/9-tran-base.jpg
+jpegtran -copy none -optimize source/10.jpg > opt-tran-base/10-tran-base.jpg
